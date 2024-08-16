@@ -31,7 +31,7 @@
 - [Music](https://wiki.gnome.org/Apps/Music) - Simple music player and organizer. :v:
 
 ### Chat
-- [Slack](https://slack.com/) - Free (limited features) and paid version collaboration client. Supports chat, file sharing, video and voice calls.
+- [Slack](https://slack.com/) - Cloud hosted collaboration client that has free (limited features) and paid accounts. Supports chat, file sharing, video and voice calls.
 
 ### Graphics & design
 - [GIMP](https://www.gimp.org/) - Open Source Imgae editor. Highly customizable and supports 3:rd part plugins as well.
