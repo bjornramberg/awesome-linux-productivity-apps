@@ -34,7 +34,7 @@
 - [Slack](https://slack.com/) - Free (limited features) and paid version collaboration client. Supports chat, file sharing, video and voice calls.
 
 ### Graphics & design
-- [gimp](https://www.gimp.org/) - Open Source Imgae editor. Highly customizable and supports 3:rd part plugins as well.
+- [GIMP](https://www.gimp.org/) - Open Source Imgae editor. Highly customizable and supports 3:rd part plugins as well.
 
 ### Sync & backup tools
 - [Insync](https://www.insynchq.com/) - Great sync tool for Google Drive, Microsoft OneDrive and Dropbox. Offers single/multiple folder sync, sharing and edit. Only Paid version.  
