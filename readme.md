@@ -4,6 +4,7 @@
 
 :v: = Available on [Flathub](https://flathub.org/) 
 
+
 ## Contents
 
 - [Office](#Office)
@@ -18,10 +19,13 @@
 ---
 
 ### Office
-- [LibreOffice](https://www.libreoffice.org/) - Successor to OpenOffice. Great looking, frequently updated and higly compatible with common formats.
+- [LibreOffice](https://www.libreoffice.org/) - Great looking, frequently updated and higly compatible with common formats.
+- [WPS](https://www.wps.com/) - A highly compatible office suit that can be used both locally and as cloud hosted, AI powered features for some of the tools in the suit.
+- [Google Docs](https://www.google.com/docs/about/) - Web based full Office suit with rich feature set and great focus on collaboration. Free and premium.
 
 ### Calendars
-- [Thunderbird](https://www.thunderbird.net/) - A part from being a great mail client, Thunderbird is also a full featured calendar.
+- [Thunderbird](https://www.thunderbird.net/) - A part from being a great mail client, Thunderbird is also a full featured calendar. 
+- [Evolution](https://wiki.gnome.org/Apps/Evolution) - Evolution is both calendar and a mail client. Simplistic UI with great features under the hood.
 
 ### Notepads & Note-taking
 - [gedit](https://gedit-technology.github.io/apps/gedit/) - Easy to use and lightweight general purpose text editor.
