@@ -1,5 +1,7 @@
 # Awesome Linux Productivity Applications [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+A full set of productivity tools is not only for Windows and Mac users, but can sometimes be hard to find good alternatives for. This list is ther to help show some of the most awesome tools out there for any Linux enthusiast.
+
 > A curated list of _awesome_ apps, for productivity. Office and document handling, browsers, calenders and more to make your linux environment as productive as can be.
 
 :v: = Available on [Flathub](https://flathub.org/) 
