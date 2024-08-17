@@ -25,11 +25,11 @@
 
 ### Calendars
 - [Thunderbird](https://www.thunderbird.net/) - A part from being a great mail client, Thunderbird is also a full featured calendar. 
-- [Evolution](https://wiki.gnome.org/Apps/Evolution) - Evolution is both calendar and a mail client. Simplistic UI with great features under the hood.
+- [Evolution](https://wiki.gnome.org/Apps/Evolution) - Evolution is both calendar and a mail client. Simplistic UI with great features under the hood. :v:
 
 ### Notepads & Note-taking
 - [gedit](https://gedit-technology.github.io/apps/gedit/) - Easy to use and lightweight general purpose text editor.
-- [Obsidian](https://obsidian.md/) - An amazing and very flexible note-taking app. Features graphs, canvases, integrates with a lot of webservices and has 3:rd party plugin support. Free to use but offers premium services (such as sync and soem plug-ins)
+- [Obsidian](https://obsidian.md/) - An amazing and very flexible note-taking app. Features graphs, canvases, integrates with a lot of webservices and has 3:rd party plugin support. Free to use but offers premium services (such as sync and soem plug-ins). :v:
 
 ### Music
 - [Spotify](https://open.spotify.com/) - Music streamiung service that supports free (with ads) or premium (paid without ads) accounts.
