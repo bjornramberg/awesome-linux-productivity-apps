@@ -29,6 +29,7 @@
 
 ### Notepads & Note-taking
 - [gedit](https://gedit-technology.github.io/apps/gedit/) - Easy to use and lightweight general purpose text editor.
+- [Obsidian](https://obsidian.md/) - An amazing and very flexible note-taking app. Features graphs, canvases, integrates with a lot of webservices and has 3:rd party plugin support. Free to use but offers premium services (such as sync and soem plug-ins)
 
 ### Music
 - [Spotify](https://open.spotify.com/) - Music streamiung service that supports free (with ads) or premium (paid without ads) accounts.
