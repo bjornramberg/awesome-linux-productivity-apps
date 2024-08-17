@@ -15,7 +15,7 @@ A full set of productivity tools is not only for Windows and Mac users, but can 
 - [Music](#Music)
 - [Chat](#Chat) 
 - [Graphics & design](#Graphics&Design)
-- [Sync & backup tools](#Sync&BackupTools)https://slack.com/
+- [Sync & backup tools](#Sync&BackupTools)
 - [RSS](#RSS)
 
 ---
