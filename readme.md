@@ -41,7 +41,8 @@ A full set of productivity tools is not only for Windows and Mac users, but can 
 - [Slack](https://slack.com/) - Cloud hosted collaboration client that has free (limited features) and paid accounts. Supports chat, file sharing, video and voice calls.
 
 ### Graphics & design
-- [GIMP](https://www.gimp.org/) - Open Source Imgae editor. Highly customizable and supports 3:rd part plugins as well.
+- [GIMP](https://www.gimp.org/) - Open Source Image editor. Highly customizable and supports 3:rd part plugins as well.
+- [Shotwell](https://wiki.gnome.org/Apps/Shotwell) - Easy to use, lightweight perosnal photo organizer. :v:
 
 ### Sync & backup tools
 - [Insync](https://www.insynchq.com/) - Great sync tool for Google Drive, Microsoft OneDrive and Dropbox. Offers single/multiple folder sync, sharing and edit. Only Paid version.  
