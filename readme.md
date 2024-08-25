@@ -11,11 +11,11 @@ A full set of productivity tools is not only for Windows and Mac users, but can 
 
 - [Office](#office)
 - [Calendars](#calendars)
-- [Notepads & Note-taking](#notepads)
+- [Notepads](#notepads)
 - [Music](#music)
 - [Chat](#chat) 
-- [Graphics & design](#graphics--design)
-- [Sync & backup tools](#sync--backup-tools)
+- [Graphics & Design](#graphics--design)
+- [Sync & Backup tools](#sync--backup-tools)
 - [RSS](#rss)
 
 ---
