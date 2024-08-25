@@ -11,11 +11,11 @@ A full set of productivity tools is not only for Windows and Mac users, but can 
 
 - [Office](#Office)
 - [Calendars](#Calendars)
-- [Notepads & Note-taking](#Notepads&Note-Taking)
+- [Notepads & Note-taking](#Notepads-&-Note-Taking)
 - [Music](#Music)
 - [Chat](#Chat) 
-- [Graphics & design](#Graphics&Design)
-- [Sync & backup tools](#Sync&BackupTools)
+- [Graphics & design](###"Graphics-&-Design")
+- [Sync & backup tools](#Sync-&-Backup-Tools)
 - [RSS](#RSS)
 
 ---
@@ -40,11 +40,11 @@ A full set of productivity tools is not only for Windows and Mac users, but can 
 ### Chat
 - [Slack](https://slack.com/) - Cloud hosted collaboration client that has free (limited features) and paid accounts. Supports chat, file sharing, video and voice calls.
 
-### Graphics & design
-- [GIMP](https://www.gimp.org/) - Open Source Image editor. Highly customizable and supports 3:rd part plugins as well.
+### Graphics & Design
+- [GIMP](https://www.gimp.org/) - Open Source Image editor. Highly customizable and supports 3:rd part plugins as well. :v:
 - [Shotwell](https://wiki.gnome.org/Apps/Shotwell) - Easy to use, lightweight perosnal photo organizer. :v:
 
-### Sync & backup tools
+### Sync & Backup Tools
 - [Insync](https://www.insynchq.com/) - Great sync tool for Google Drive, Microsoft OneDrive and Dropbox. Offers single/multiple folder sync, sharing and edit. Only Paid version.  
 
 ### RSS
