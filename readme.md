@@ -14,7 +14,7 @@ A full set of productivity tools is not only for Windows and Mac users, but can 
 - [Notepads & Note-taking](#Notepads-&-Note-Taking)
 - [Music](#Music)
 - [Chat](#Chat) 
-- [Graphics & design](###"Graphics-&-Design")
+- [Graphics & design](#graphics-&-design)
 - [Sync & backup tools](#Sync-&-Backup-Tools)
 - [RSS](#RSS)
 
