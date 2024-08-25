@@ -9,14 +9,14 @@ A full set of productivity tools is not only for Windows and Mac users, but can 
 
 ## Contents
 
-- [Office](#Office)
-- [Calendars](#Calendars)
-- [Notepads & Note-taking](#Notepads-&-Note-Taking)
-- [Music](#Music)
-- [Chat](#Chat) 
-- [Graphics & design](#graphics-&-design)
-- [Sync & backup tools](#Sync-&-Backup-Tools)
-- [RSS](#RSS)
+- [Office](#office)
+- [Calendars](#calendars)
+- [Notepads & Note-taking](#notepads)
+- [Music](#music)
+- [Chat](#chat) 
+- [Graphics & design](#graphics--design)
+- [Sync & backup tools](#sync--backup-tools)
+- [RSS](#rss)
 
 ---
 
@@ -29,7 +29,7 @@ A full set of productivity tools is not only for Windows and Mac users, but can 
 - [Thunderbird](https://www.thunderbird.net/) - A part from being a great mail client, Thunderbird is also a full featured calendar. 
 - [Evolution](https://wiki.gnome.org/Apps/Evolution) - Evolution is both calendar and a mail client. Simplistic UI with great features under the hood. :v:
 
-### Notepads & Note-taking
+### Notepads
 - [gedit](https://gedit-technology.github.io/apps/gedit/) - Easy to use and lightweight general purpose text editor.
 - [Obsidian](https://obsidian.md/) - An amazing and very flexible note-taking app. Features graphs, canvases, integrates with a lot of webservices and has 3:rd party plugin support. Free to use but offers premium services (such as sync and soem plug-ins). :v:
 
