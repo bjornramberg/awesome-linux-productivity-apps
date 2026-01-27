@@ -33,6 +33,7 @@ A full set of productivity tools is not only for Windows and Mac users, but can 
 - [gedit](https://gedit-technology.github.io/apps/gedit/) - Easy to use and lightweight general purpose text editor.
 - [logseq](https://logseq.com/) - Very versitilie notekeeping app that focuses a bit more on learning (with flashcards and clozes). Very powerful PDF and query functionallity. Open Source, alot of plugins and vivid community.
 - [Obsidian](https://obsidian.md/) - An amazing and very flexible note-taking app. Features graphs, canvases, integrates with a lot of webservices and has 3:rd party plugin support. Free to use for non-comercial use but offers premium services (such as sync and soem plug-ins). :v:
+- [Typora](https://typora.io/) - Clean and zen notekeeping application. Uses markdown and tucks away everything non-nessasary. Free and premium :v:
 
 ### Music
 - [Spotify](https://open.spotify.com/) - Music streamiung service that supports free (with ads) or premium (paid without ads) accounts.
