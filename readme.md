@@ -45,6 +45,7 @@ A full set of productivity tools is not only for Windows and Mac users, but can 
 ### Graphics & Design
 - [GIMP](https://www.gimp.org/) - Open Source Image editor. Highly customizable and supports 3:rd part plugins as well. :v:
 - [Shotwell](https://wiki.gnome.org/Apps/Shotwell) - Easy to use, lightweight perosnal photo organizer. :v:
+- [Excalidraw](https://excalidraw.com/) - Amazing personal whiteboard and scribble space. Collaboration enabled, great export posibilites and both free and subscription based.
 
 ### Sync & Backup Tools
 - [Insync](https://www.insynchq.com/) - Great sync tool for Google Drive, Microsoft OneDrive and Dropbox. Offers single/multiple folder sync, sharing and edit. Only Paid version.  
