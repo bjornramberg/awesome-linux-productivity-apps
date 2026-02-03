@@ -40,7 +40,8 @@ A full set of productivity tools is not only for Windows and Mac users, but can 
 - [Music](https://wiki.gnome.org/Apps/Music) - Simple music player and organizer. :v:
 
 ### Chat
-- [Slack](https://slack.com/) - Cloud hosted collaboration client that has free (limited features) and paid accounts. Supports chat, file sharing, video and voice calls.
+- [Slack](https://slack.com/) - Cloud hosted collaboration client that has free (limited features) and paid accounts. Supports chat, file sharing, video and voice calls. :v:
+- [Discord](https://discord.com) - Cloud hosted collaboration, client for most major linux distributions. Supports chat, filesharing, video and voice calls. :v:
 
 ### Graphics & Design
 - [GIMP](https://www.gimp.org/) - Open Source Image editor. Highly customizable and supports 3:rd part plugins as well. :v:
