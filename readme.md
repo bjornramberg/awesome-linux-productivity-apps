@@ -22,6 +22,7 @@ A full set of productivity tools is not only for Windows and Mac users, but can 
 
 ### Office
 - [LibreOffice](https://www.libreoffice.org/) - Great looking, frequently updated and higly compatible with common formats.
+- [Orkas](https://github.com/Orkas-AI/Orkas) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat. Runs from source on glibc-based Linux.
 - [WPS](https://www.wps.com/) - A highly compatible office suit that can be used both locally and as cloud hosted, AI powered features for some of the tools in the suit.
 - [Google Docs](https://www.google.com/docs/about/) - Web based full Office suit with rich feature set and great focus on collaboration. Free and premium.
 
