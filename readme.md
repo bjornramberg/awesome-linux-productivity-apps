@@ -38,6 +38,7 @@ A full set of productivity tools is not only for Windows and Mac users, but can 
 ### Music
 - [Spotify](https://open.spotify.com/) - Music streamiung service that supports free (with ads) or premium (paid without ads) accounts.
 - [Music](https://wiki.gnome.org/Apps/Music) - Simple music player and organizer. :v:
+- [zenplayer](https://github.com/bjornramberg/zenplayer) - Shameless self-plug - youtube tui player available on pipy. 
 
 ### Chat
 - [Slack](https://slack.com/) - Cloud hosted collaboration client that has free (limited features) and paid accounts. Supports chat, file sharing, video and voice calls. :v:
