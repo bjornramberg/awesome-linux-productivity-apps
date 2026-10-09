@@ -15,6 +15,7 @@ A full set of productivity tools is not only for Windows and Mac users, but can 
 - [Music](#music)
 - [Chat](#chat) 
 - [Graphics & Design](#graphics--design)
+- [Launchers & Desktop Workflow](#launchers--desktop-workflow)
 - [Sync & Backup tools](#sync--backup-tools)
 - [RSS](#rss)
 
@@ -48,6 +49,9 @@ A full set of productivity tools is not only for Windows and Mac users, but can 
 - [GIMP](https://www.gimp.org/) - Open Source Image editor. Highly customizable and supports 3:rd part plugins as well. :v:
 - [Shotwell](https://wiki.gnome.org/Apps/Shotwell) - Easy to use, lightweight perosnal photo organizer. :v:
 - [Excalidraw](https://excalidraw.com/) - Amazing personal whiteboard and scribble space. Collaboration enabled, great export posibilites and both free and subscription based.
+
+### Launchers & Desktop Workflow
+- [Velora Desktop](https://github.com/Anuppaul/velora-desktop) - Open-source GNOME Shell 50 extension with Super+Space app search, a draggable radial launcher, and native Shell surface customization.
 
 ### Sync & Backup Tools
 - [Insync](https://www.insynchq.com/) - Great sync tool for Google Drive, Microsoft OneDrive and Dropbox. Offers single/multiple folder sync, sharing and edit. Only Paid version.  
